@@ -1,0 +1,676 @@
+Source Name	Characteristics[cell line]	Characteristics[organism part]	Characteristics[disease]	Characteristics[age]	Characteristics[sex]	Characteristics[ethnicity]
+Sample 1	A2780	ovary	ovarian carcinoma	not available	female	not available
+Sample 2	COLO 679	skin	melanoma	47	female	not available
+Sample 3	COLO 800	skin	melanoma	14	male	not available
+Sample 4	COLO 849	skin	metastatic melanoma	43	male	Caucasian
+Sample 5	Hs 852.T	skin	melanoma	not available	not available	not available
+Sample 6	IPC-298	skin	melanoma	64	female	not available
+Sample 7	MEL-HO	skin	melanoma	not available	female	not available
+Sample 8	SK-MEL-1	skin	metastatic melanoma	29	male	Caucasian
+Sample 9	SK-MEL-30	skin	melanoma	67	male	Caucasian
+Sample 10	Hs 936.T	skin	melanoma	not available	not available	not available
+Sample 11	AGS	stomach	gastric adenocarcinoma	not available	not available	not available
+Sample 12	NCI-N87	stomach	gastric carcinoma	not available	not available	not available
+Sample 13	SNU-1	stomach	gastric carcinoma	not available	not available	not available
+Sample 14	SNU-5	stomach	gastric carcinoma	not available	not available	not available
+Sample 15	SNU-16	stomach	gastric carcinoma	33	female	not available
+Sample 16	Hs 746T	stomach	gastric carcinoma	not available	not available	not available
+Sample 17	23132/87	stomach	gastric adenocarcinoma	72	male	not available
+Sample 18	GTL-16	stomach	gastric adenocarcinoma	62	female	not available
+Sample 19	OCUM-1	stomach	gastric adenocarcinoma	38	not available	Japanese
+Sample 20	MKN-1	stomach	gastric adenosquamous carcinoma	72	male	not available
+Sample 21	MKN-74	stomach	gastric adenocarcinoma	37	male	Japanese
+Sample 22	NUGC-2	stomach	gastric adenocarcinoma	56	female	not available
+Sample 23	NUGC-3	stomach	gastric adenocarcinoma	72	male	not available
+Sample 24	NUGC-4	stomach	gastric adenocarcinoma	35	female	not available
+Sample 25	RERF-GC-1B	stomach	gastric carcinoma	41	male	Japanese
+Sample 26	FU97	stomach	gastric adenocarcinoma	66	male	Japanese
+Sample 27	IM-95	stomach	gastric adenocarcinoma	not available	not available	not available
+Sample 28	SNU-601	stomach	gastric carcinoma	34	male	not available
+Sample 29	Daudi	blood	malignant Burkitt's lymphoma	not available	not available	not available
+Sample 30	HEL	blood	erythroleukemia	30	male	not available
+Sample 31	HNT-34	blood	acute myeloid leukemia	47	female	not available
+Sample 32	KG-1	blood	leukemia	not available	not available	not available
+Sample 33	ME-1	bone marrow	acute myelogenic leukemia	40	male	Japanese
+Sample 34	MOLM-16	blood	acute myeloid leukemia	not available	female	Japanese
+Sample 35	MV-4-11	blood	acute myeloid leukemia	10	male	not available
+Sample 36	OCI-AML2	blood	acute myeloid leukemia	not available	not available	not available
+Sample 37	OCI-AML3	blood	acute myeloid leukemia	not available	not available	not available
+Sample 38	OCI-AML5	blood	acute myeloid leukemia	77	male	not available
+Sample 39	OCI-M1	blood	acute myeloid leukemia	not available	not available	not available
+Sample 40	OCI-M2	blood	acute myeloid leukemia	not available	not available	not available
+Sample 41	SKM-1	blood	myelodysplasia	not available	not available	not available
+Sample 42	SUP-B15	blood	acute lymphoblastic leukemia	not available	not available	not available
+Sample 43	BT-20	breast	breast carcinoma	74	female	Caucasian
+Sample 44	BT-474	breast	breast ductal adenocarcinoma	60	female	Caucasian
+Sample 45	BT-483	breast	breast ductal adenocarcinoma	23	female	Caucasian
+Sample 46	BT-549	breast	breast ductal adenocarcinoma	72	female	Caucasian
+Sample 47	CAL-120	breast	breast adenocarcinoma	43	female	not available
+Sample 48	CAL-148	breast	breast adenocarcinoma	58	female	not available
+Sample 49	CAL-85-1	breast	breast adenocarcinoma	35	female	not available
+Sample 50	CAMA-1	breast	breast adenocarcinoma	51	female	Caucasian
+Sample 51	EFM-19	breast	breast carcinoma	50	female	Caucasian
+Sample 52	EFM-192A	breast	breast adenocarcinoma	46	female	Caucasian
+Sample 53	EVSA-T	breast	breast carcinoma	not available	not available	not available
+Sample 54	HCC1143	breast	breast ductal adenocarcinoma	52	female	Caucasian
+Sample 55	HCC1187	breast	breast ductal adenocarcinoma	41	female	Caucasian
+Sample 56	HCC1395	breast	breast ductal adenocarcinoma	43	female	Caucasian
+Sample 57	HCC1419	breast	breast ductal adenocarcinoma	42	female	Hispanic
+Sample 58	HCC1428	breast	breast adenocarcinoma	49	female	Caucasian
+Sample 59	HCC1500	breast	breast ductal adenocarcinoma	32	female	African
+Sample 60	HCC1569	breast	breast metaplastic carcinoma	70	female	African
+Sample 61	HCC1599	breast	breast ductal adenocarcinoma	44	female	Caucasian
+Sample 62	HCC1806	breast	breast squamous cell carcinoma	60	female	African
+Sample 63	HCC1937	breast	breast ductal adenocarcinoma	23	female	Caucasian
+Sample 64	HCC1954	breast	breast ductal adenocarcinoma	61	female	East Indian
+Sample 65	HCC202	breast	breast ductal adenocarcinoma	82	not available	Caucasian
+Sample 66	HCC2218	breast	breast ductal adenocarcinoma	38	female	Caucasian
+Sample 67	HCC38	breast	breast ductal adenocarcinoma	50	female	Caucasian
+Sample 68	HCC70	breast	breast ductal adenocarcinoma	49	female	African
+Sample 69	Hs 578T	breast	breast carcinoma	74	female	Caucasian
+Sample 70	JIMT-1	breast	breast ductal adenocarcinoma	62	female	not available
+Sample 71	KPL-1	breast	breast ductal adenocarcinoma	not available	female	not available
+Sample 72	KPL-4	breast	breast ductal adenocarcinoma	52	female	Japanese
+Sample 73	MCF 10A	breast	breast fibrocystic disease	not available	female	Caucasian
+Sample 74	MCF-7	breast	breast adenocarcinoma	40	female	Caucasian
+Sample 75	MDA-MB-157	breast	breast medullary carcinoma	44	female	African
+Sample 76	MDA-MB-231	breast	breast adenocarcinoma	51	female	Caucasian
+Sample 77	MDA-MB-330	breast	breast carcinoma	43	female	Caucasian
+Sample 78	MDA-MB-415	breast	breast adenocarcinoma	38	female	not available
+Sample 79	MDA-MB-436	breast	breast adenocarcinoma	43	female	Caucasian
+Sample 80	MDA-MB-453	breast	breast carcinoma	not available	female	Caucasian
+Sample 81	MFM-223	breast	breast ductal adenocarcinoma	not available	female	not available
+Sample 82	SK-BR-3	breast	breast adenocarcinoma	43	female	Caucasian
+Sample 83	T-47D	breast	breast ductal adenocarcinoma	54	female	not available
+Sample 84	UACC-812	breast	breast ductal adenocarcinoma	43	female	not available
+Sample 85	ZR-75-1	breast	breast ductal adenocarcinoma	63	not available	Caucasian
+Sample 86	ZR-75-30	breast	breast ductal adenocarcinoma	47	female	African
+Sample 87	C170	colon	colon carcinoma	not available	not available	not available
+Sample 88	Caco-2	colon	colon adenocarcinoma	not available	not available	not available
+Sample 89	CL-11	colon	colon carcinoma	not available	not available	not available
+Sample 90	CL-34	colon	colon adenocarcinoma	not available	female	not available
+Sample 91	CL-40	colon	colon adenocarcinoma	not available	female	not available
+Sample 92	COLO 201	colon	colon adenocarcinoma	70	male	Caucasian
+Sample 93	COLO 320DM	colon	colon carcinoma	55	female	Caucasian
+Sample 94	COLO 741	colon	colon carcinoma	69	not available	not available
+Sample 95	COLO 678	colon	colon carcinoma	69	male	not available
+Sample 96	CX-1	colon	colon adenocarcinoma	not available	not available	not available
+Sample 97	DLD-1	colon	colon adenocarcinoma	not available	male	not available
+Sample 98	HCT-15	colon	colon adenocarcinoma	not available	male	not available
+Sample 99	HCT-8	ileum	ileum adenocarcinoma	not available	not available	not available
+Sample 100	KM-12	colon	colon adenocarcinoma	not available	not available	not available
+Sample 101	LoVo	colon	colon adenocarcinoma	56	male	Caucasian
+Sample 102	MDST8	colon	colon carcinoma	not available	not available	not available
+Sample 103	RKO	colon	colon carcinoma	not available	not available	not available
+Sample 104	SK-CO-1	colon	colon adenocarcinoma	65	male	Caucasian
+Sample 105	SW 1116	colon	colon adenocarcinoma	not available	not available	not available
+Sample 106	SW 403	colon	colon adenocarcinoma	not available	not available	not available
+Sample 107	SW 948	colon	colon adenocarcinoma	not available	not available	not available
+Sample 108	T84	colon	colon carcinoma	not available	not available	not available
+Sample 109	MKN-45	stomach	gastric adenocarcinoma	62	female	not available
+Sample 110	Okajima	stomach	gastric adenocarcinoma	not available	not available	not available
+Sample 111	A-427	lung	lung carcinoma	52	male	Caucasian
+Sample 112	Calu-3	lung	lung adenocarcinoma	25	male	Caucasian
+Sample 113	Calu-6	lung	lung anaplastic carcinoma	61	female	Caucasian
+Sample 114	EBC-1	lung	non-small cell lung carcinoma	not available	not available	not available
+Sample 115	EKVX	lung	non-small cell lung carcinoma	not available	not available	not available
+Sample 116	NCI-H1355	lung	lung adenocarcinoma	53	male	Caucasian
+Sample 117	NCI-H1373	lung	lung adenocarcinoma	56	male	African
+Sample 118	NCI-H1573	lung	lung adenocarcinoma	not available	not available	not available
+Sample 119	NCI-H1693	lung	non-small cell lung carcinoma	55	female	Caucasian
+Sample 120	NCI-H1792	lung	lung adenocarcinoma	50	male	Caucasian
+Sample 121	HCC-15	lung	non-small cell lung carcinoma	48	male	not available
+Sample 122	KNS-62	lung	non-small cell lung carcinoma	49	male	not available
+Sample 123	NCI-H1048	lung	small cell lung carcinoma	not available	female	not available
+Sample 124	NCI-H1435	lung	non-small cell lung carcinoma	35	female	not available
+Sample 125	NCI-H1568	lung	non-small cell lung carcinoma	48	female	Caucasian
+Sample 126	NCI-H1650	lung	lung adenocarcinoma	27	male	Caucasian
+Sample 127	NCI-H1666	lung	lung adenocarcinoma	50	female	Caucasian
+Sample 128	NCI-H1793	lung	lung adenocarcinoma	52	female	not available
+Sample 129	NCI-H1838	lung	non-small cell lung carcinoma	not available	female	not available
+Sample 130	NCI-H1944	lung	non-small cell lung carcinoma	62	female	Caucasian
+Sample 131	NCI-H2030	lung	non-small cell lung carcinoma	not available	male	not available
+Sample 132	NCI-H2106	lung	non-small cell lung carcinoma	58	male	Caucasian
+Sample 133	NCI-H23	lung	non-small cell lung carcinoma	51	male	African
+Sample 134	RERF-LC-MS	lung	non-small cell lung carcinoma	not available	not available	not available
+Sample 135	SK-MES-1	lung	squamous cell lung carcinoma	65	male	Caucasian
+Sample 136	A3/KAW	blood	lymphoma	not available	not available	not available
+Sample 137	A4/Fuk	blood	non-Hodgkin's lymphoma	not available	not available	not available
+Sample 138	BJAB	lymph node	B-cell lymphoma	not available	not available	not available
+Sample 139	CA46	blood	malignant Burkitt's lymphoma	not available	male	not available
+Sample 140	CI-1	lymph node	non-Hodgkin's lymphoma	38	female	not available
+Sample 141	DB	lymph node	B-cell lymphoma	45	male	Caucasian
+Sample 142	DOHH-2	lymph node	B-cell lymphoma	60	male	not available
+Sample 143	EB-3	blood	malignant Burkitt's lymphoma	3	male	African
+Sample 144	EB1	lymph node	malignant Burkitt's lymphoma	not available	not available	not available
+Sample 145	Farage	blood	non-Hodgkin's lymphoma	not available	not available	not available
+Sample 146	GA-10	blood	malignant Burkitt's lymphoma	41	male	Caucasian
+Sample 147	GRANTA-519	lymph node	B-cell lymphoma	58	female	Caucasian
+Sample 148	HS-Sultan	blood	lymphoma	7	male	African
+Sample 149	HT	lymph node	diffuse mixed lymphoma	70	male	Caucasian
+Sample 150	JEKO-1	lymph node	lymphoma	78	female	not available
+Sample 151	Jiyoye	blood	malignant Burkitt's lymphoma	7	male	African
+Sample 152	KARPAS-1106P	lymph node	B-cell lymphoma	23	not available	not available
+Sample 153	KARPAS-422	blood	non-Hodgkin's lymphoma	not available	not available	not available
+Sample 154	MC116	lymph node	lymphoma	not available	not available	not available
+Sample 155	MHH-PREB-1	lymph node	B-cell lymphoma	6	male	Caucasian
+Sample 156	NAMALWA	blood	malignant Burkitt's lymphoma	not available	not available	not available
+Sample 157	NU-DUL-1	blood	B-cell lymphoma	not available	not available	not available
+Sample 158	OCI-LY-10	lymph node	B-cell lymphoma	not available	not available	not available
+Sample 159	OCI-LY-19	lymph node	B-cell lymphoma	27	female	not available
+Sample 160	OCI-LY-3	lymph node	B-cell lymphoma	not available	not available	not available
+Sample 161	OCI-LY-7	lymph node	B-cell lymphoma	not available	not available	not available
+Sample 162	Pfeiffer	blood	Hodgkin's lymphoma	not available	not available	not available
+Sample 163	RAJI	blood	malignant Burkitt's lymphoma	11	male	African
+Sample 164	RAMOS	blood	malignant Burkitt's lymphoma	3	male	not available
+Sample 165	RC-K8	blood	B-cell lymphoma	not available	not available	not available
+Sample 166	REC-1	lymph node	B-cell lymphoma	61	male	not available
+Sample 167	RI-1	lymph node	B-cell lymphoma	57	female	not available
+Sample 168	RL	lymph node	B-cell lymphoma	52	male	not available
+Sample 169	SC-1	lymph node	B-cell lymphoma	67	male	not available
+Sample 170	SCC-3	blood	non-Hodgkin's lymphoma	20	not available	not available
+Sample 171	SR-786	blood	anaplastic large cell lymphoma	not available	not available	not available
+Sample 172	SU-DHL-1	lymph node	non-Hodgkin's lymphoma	10	male	not available
+Sample 173	SU-DHL-10	pleura	pleural B-cell lymphoma	not available	male	not available
+Sample 174	SU-DHL-16	lymph node	B-cell lymphoma	not available	male	not available
+Sample 175	SU-DHL-4	lymph node	B-cell lymphoma	38	male	not available
+Sample 176	SU-DHL-5	lymph node	B-cell lymphoma	17	female	not available
+Sample 177	SU-DHL-6	lymph node	lymphoma	not available	not available	not available
+Sample 178	SU-DHL-8	lymph node	B-cell lymphoma	59	male	not available
+Sample 179	TK	blood	lymphoma	not available	not available	not available
+Sample 180	TMD8	blood	diffuse large B-cell lymphoma	62	male	not available
+Sample 181	Toledo	lymph node	B-cell lymphoma	not available	female	Caucasian
+Sample 182	U-698-M	lymph node	B-cell lymphoma	7	male	not available
+Sample 183	U-2932	blood	B-cell lymphoma	not available	not available	not available
+Sample 184	WSU-DLCL2	lymph node	B-cell lymphoma	41	male	Caucasian
+Sample 185	WSU-FSCCL	lymph node	B-cell lymphoma	37	not available	Caucasian
+Sample 186	WSU-NHL	blood	B-cell lymphoma	not available	not available	not available
+Sample 187	59M	ovary	ovarian carcinoma	not available	female	not available
+Sample 188	Caov-3	ovary	ovarian adenocarcinoma	54	female	Caucasian
+Sample 189	DOR 13	ovary	ovarian carcinoma	not available	female	not available
+Sample 190	EFO-27	ovary	ovarian adenocarcinoma	36	female	not available
+Sample 191	ES-2	ovary	ovarian clear cell adenocarcinoma	47	female	African
+Sample 192	HEY	ovary	ovarian carcinoma	not available	not available	not available
+Sample 193	OAW28	ovary	ovarian serous cystadenocarcinoma	not available	female	not available
+Sample 194	OAW42	ovary	ovarian serous cystadenocarcinoma	not available	not available	not available
+Sample 195	OV56	ovary	ovarian carcinoma	46	female	not available
+Sample 196	OVCA 420	ovary	ovarian carcinoma	not available	female	not available
+Sample 197	OvCA 429	ovary	ovarian adenocarcinoma	not available	female	not available
+Sample 198	OVCAR-4	ovary	ovarian adenocarcinoma	not available	female	not available
+Sample 199	OVCAR-5	ovary	ovarian adenocarcinoma	not available	female	not available
+Sample 200	OVCAR-8	ovary	ovarian adenocarcinoma	not available	female	not available
+Sample 201	SK-OV-3	ovary	ovarian adenocarcinoma	not available	female	Caucasian
+Sample 202	TOV-112D	ovary	endometrioid adenocarcinoma	42	female	Caucasian
+Sample 203	AsPC-1	pancreas	pancreatic adenocarcinoma	62	female	Caucasian
+Sample 204	Capan-1	pancreas	pancreatic adenocarcinoma	40	male	Caucasian
+Sample 205	Capan-2	pancreas	pancreatic adenocarcinoma	56	male	Caucasian
+Sample 206	CFPAC-1	pancreas	pancreatic ductal adenocarcinoma	not available	male	Caucasian
+Sample 207	HPAC	pancreas	pancreatic adenocarcinoma	64	female	Caucasian
+Sample 208	HPAF-II	pancreas	pancreatic adenocarcinoma	not available	male	Caucasian
+Sample 209	Hs 766T	pancreas	pancreatic carcinoma	46	male	Caucasian
+Sample 210	HUP-T3	pancreas	pancreatic adenocarcinoma	66	male	Japanese
+Sample 211	KP4	pancreas	pancreatic in situ ductal carcinoma	50	male	not available
+Sample 212	MIA Paca-2	pancreas	pancreatic carcinoma	65	male	Caucasian
+Sample 213	Panc 02.03	pancreas	pancreatic adenocarcinoma	70	female	Caucasian
+Sample 214	Panc 03.27	pancreas	pancreatic adenocarcinoma	65	female	Caucasian
+Sample 215	Panc 04.03	pancreas	pancreatic adenocarcinoma	70	male	Caucasian
+Sample 216	Panc 05.04	pancreas	pancreatic adenocarcinoma	77	female	Caucasian
+Sample 217	Panc 08.13	pancreas	pancreatic adenocarcinoma	85	male	Caucasian
+Sample 218	PANC-1	pancreas	pancreatic adenocarcinoma	56	male	Caucasian
+Sample 219	PA-TU-8902	pancreas	pancreatic adenocarcinoma	not available	not available	not available
+Sample 220	PA-TU-8988T	pancreas	pancreatic adenocarcinoma	64	female	not available
+Sample 221	PL45	pancreas	pancreatic ductal adenocarcinoma	not available	male	Caucasian
+Sample 222	PSN1	pancreas	pancreatic adenocarcinoma	not available	not available	not available
+Sample 223	SU.86.86	pancreas	pancreatic ductal adenocarcinoma	57	female	Caucasian
+Sample 224	SW 1990	pancreas	pancreatic adenocarcinoma	56	male	Caucasian
+Sample 225	501A	skin	melanoma	not available	not available	not available
+Sample 226	537 MEL	skin	melanoma	not available	not available	not available
+Sample 227	624 mel	skin	melanoma	not available	not available	not available
+Sample 228	888	skin	melanoma	not available	not available	not available
+Sample 229	928 mel	skin	melanoma	not available	not available	not available
+Sample 230	A2058	skin	melanoma	43	male	Caucasian
+Sample 231	C32	skin	melanoma	53	male	Caucasian
+Sample 232	COLO 829	skin	melanoma	45	male	Caucasian
+Sample 233	G-361	skin	melanoma	31	male	Caucasian
+Sample 234	Hs 69ST	skin	melanoma	not available	not available	not available
+Sample 235	Hs 940.T	skin	melanoma	not available	not available	not available
+Sample 236	HT-144	skin	melanoma	not available	not available	not available
+Sample 237	MDA-MB-435	skin	melanoma	not available	not available	not available
+Sample 238	RPMI-7951	skin	melanoma	18	not available	Caucasian
+Sample 239	SK-MEL-28	skin	melanoma	51	male	not available
+Sample 240	SK-MEL-2	skin	melanoma	60	male	Caucasian
+Sample 241	SK-MEL-5	skin	melanoma	not available	not available	not available
+Sample 242	UACC-257	skin	melanoma	not available	not available	not available
+Sample 243	CHL-1	skin	melanoma	not available	not available	not available
+Sample 244	NCI-H1770	lung	non-small cell lung carcinoma	57	not available	Caucasian
+Sample 245	OVCAR433	ovary	ovarian carcinoma	not available	female	not available
+Sample 246	PL-21	blood	leukemia	24	male	not available
+Sample 247	U-2 OS	bone	osteosarcoma	15	female	Caucasian
+Sample 248	AMO-1	blood	plasmacytoma	not available	not available	not available
+Sample 249	EJM	blood	multiple myeloma	58	female	not available
+Sample 250	JJN-3	blood	leukemia	not available	not available	not available
+Sample 251	KMM-1	blood	multiple myeloma	62	male	Japanese
+Sample 252	KMS-11	blood	multiple myeloma	not available	not available	not available
+Sample 253	KMS-12-BM	blood	multiple myeloma	64	female	not available
+Sample 254	KMS-12-PE	bone marrow	multiple myeloma	64	female	not available
+Sample 255	KMS-21BM	blood	multiple myeloma	62	male	Japanese
+Sample 256	KMS-27	blood	multiple myeloma	52	male	Japanese
+Sample 257	KMS-28BM	blood	multiple myeloma	77	female	Japanese
+Sample 258	KMS-28PE	blood	multiple myeloma	77	female	Japanese
+Sample 259	KMS-34	blood	multiple myeloma	60	female	Japanese
+Sample 260	L-363	blood	leukemia	not available	not available	not available
+Sample 261	LP-1	blood	multiple myeloma	56	female	not available
+Sample 262	MM.1S	blood	multiple myeloma	42	female	African
+Sample 263	MOLP-8	blood	multiple myeloma	52	male	Japanese
+Sample 264	NCI-H929	bone marrow	multiple myeloma	not available	not available	not available
+Sample 265	OPM-2	blood	multiple myeloma	56	female	not available
+Sample 266	RPMI 8226	blood	multiple myeloma	not available	not available	not available
+Sample 267	U266B1	blood	multiple myeloma	not available	not available	not available
+Sample 268	A549	lung	lung carcinoma	58	male	Caucasian
+Sample 269	ABC-1	lung	lung adenocarcinoma	not available	not available	not available
+Sample 270	H322T	lung	non-small cell lung carcinoma	not available	not available	not available
+Sample 271	HCC2279	lung	lung adenocarcinoma	52	female	not available
+Sample 272	HCC2935	lung	lung adenocarcinoma	39	male	Caucasian
+Sample 273	HCC4006	lung	lung adenocarcinoma	50	male	Caucasian
+Sample 274	HCC4011	lung	lung adenocarcinoma	53	male	Caucasian
+Sample 275	HCC827	lung	lung adenocarcinoma	not available	female	Caucasian
+Sample 276	HOP-62	lung	non-small cell lung carcinoma	not available	not available	not available
+Sample 277	HOP-92	lung	large cell lung carcinoma	not available	not available	not available
+Sample 278	NCI-H1155	lung	non-small cell lung carcinoma	36	male	Caucasian
+Sample 279	NCI-H1299	lung	non-small cell lung carcinoma	43	male	Caucasian
+Sample 280	NCI-H1703	lung	non-small cell lung carcinoma	54	male	Caucasian
+Sample 281	NCI-H1781	lung	lung adenocarcinoma	66	female	Caucasian
+Sample 282	NCI-H1975	lung	lung adenocarcinoma	not available	female	not available
+Sample 283	NCI-H2009	lung	lung adenocarcinoma	68	not available	Caucasian
+Sample 284	NCI-H2073	lung	lung adenocarcinoma	47	female	Caucasian
+Sample 285	NCI-H2122	lung	non-small cell lung carcinoma	46	female	Caucasian
+Sample 286	NCI-H2126	lung	non-small cell lung carcinoma	65	male	Caucasian
+Sample 287	NCI-H2228	lung	non-small cell lung carcinoma	not available	female	not available
+Sample 288	NCI-H226	lung	mesothelioma	not available	male	not available
+Sample 289	NCI-H292	lung	lung mucoepidermoid carcinoma	32	female	African
+Sample 290	NCI-H358	lung	non-small cell lung carcinoma	not available	not available	not available
+Sample 291	NCI-H441	lung	lung papillary adenocarcinoma	not available	male	not available
+Sample 292	NCI-H460	lung	large cell lung carcinoma	not available	male	not available
+Sample 293	NCI-H520	lung	squamous cell lung carcinoma	not available	male	not available
+Sample 294	KARPAS-620	blood	leukemia	77	female	not available
+Sample 295	NCI-H522	lung	non-small cell lung carcinoma	58	male	Caucasian
+Sample 296	NCI-H596	lung	lung adenosquamous carcinoma	73	male	Caucasian
+Sample 297	NCI-H650	lung	non-small cell lung carcinoma	not available	male	not available
+Sample 298	RERF-LC-KJ	lung	lung adenocarcinoma	78	male	not available
+Sample 299	RERF-LC-OK	lung	lung adenocarcinoma	not available	not available	not available
+Sample 300	SW 1573	lung	bronchoalveolar adenocarcinoma	44	female	Caucasian
+Sample 301	VMRC-LCD	lung	lung adenocarcinoma	not available	male	not available
+Sample 302	CAL51	breast	breast adenocarcinoma	45	female	not available
+Sample 303	EFM-192B	breast	breast adenocarcinoma	46	female	Caucasian
+Sample 304	HBL-100	breast	normal at the time of derivation	27	female	Caucasian
+Sample 305	HCC2688	breast	breast ductal adenocarcinoma	not available	female	not available
+Sample 306	HCC2911	breast	breast carcinoma	not available	not available	not available
+Sample 307	MCF10DCIS.com	breast	breast ductal carcinoma in situ	not available	not available	not available
+Sample 308	MDA-MB-134-VI	breast	breast carcinoma	47	female	Caucasian
+Sample 309	MDA-MB-175-VII	breast	breast ductal adenocarcinoma	56	female	African
+Sample 310	MDA-MB-361	breast	breast adenocarcinoma	not available	not available	not available
+Sample 311	MDA-MB-468	breast	breast adenocarcinoma	51	female	African
+Sample 312	MX-1	breast	breast carcinoma	not available	not available	not available
+Sample 313	SUM 1315M02	breast	breast ductal adenocarcinoma	not available	not available	not available
+Sample 314	SUM 149PT	breast	breast ductal adenocarcinoma	not available	female	not available
+Sample 315	SUM 229PE	breast	breast carcinoma	not available	female	not available
+Sample 316	SUM 159PT	breast	breast anaplastic carcinoma	not available	female	not available
+Sample 317	YMB-1	breast	breast carcinoma	55	female	not available
+Sample 318	BxPC-3	pancreas	pancreatic adenocarcinoma	61	female	not available
+Sample 319	DAN-G	pancreas	pancreatic adenocarcinoma	not available	not available	not available
+Sample 320	HUP-T4	pancreas	pancreatic carcinoma	60	male	Japanese
+Sample 321	KCI-MOH1	pancreas	pancreatic adenocarcinoma	74	male	African
+Sample 322	KLM-1	pancreas	pancreatic carcinoma	not available	not available	not available
+Sample 323	KP-2	pancreas	pancreatic carcinoma	not available	not available	not available
+Sample 324	KP-3	pancreas	pancreatic adenosquamous carcinoma	75	male	Japanese
+Sample 325	PA-TU-8988S	pancreas	pancreatic adenocarcinoma	64	female	not available
+Sample 326	PK-45H	pancreas	pancreatic carcinoma	not available	not available	not available
+Sample 327	PK-45P	pancreas	pancreatic carcinoma	not available	not available	not available
+Sample 328	PK-59	pancreas	pancreatic carcinoma	not available	not available	not available
+Sample 329	QGP-1	pancreas	pancreatic islet cell carcinoma	not available	not available	not available
+Sample 330	SUIT-2	pancreas	pancreatic tubular adenocarcinoma	73	male	Japanese
+Sample 331	TCC-PAN2	pancreas	pancreatic carcinoma	68	female	Japanese
+Sample 332	YAPC	pancreas	pancreatic carcinoma	43	male	Japanese
+Sample 333	U-937	blood	diffuse large B-cell lymphoma	37	male	Caucasian
+Sample 334	MG-63	bone	osteosarcoma	14	male	Caucasian
+Sample 335	TC-71	bone	Ewing's sarcoma	22	male	not available
+Sample 336	CHP-212	brain	neuroblastoma	not available	not available	not available
+Sample 337	G111	brain	glioma	not available	not available	not available
+Sample 338	G112	brain	glioma	not available	not available	not available
+Sample 339	G118	brain	glioma	not available	not available	not available
+Sample 340	G120	brain	glioma	not available	not available	not available
+Sample 341	G121	brain	glioma	not available	not available	not available
+Sample 342	G122	brain	glioma	not available	not available	not available
+Sample 343	G124	brain	glioma	not available	not available	not available
+Sample 344	G130	brain	glioma	not available	not available	not available
+Sample 345	G140	brain	glioma	not available	not available	not available
+Sample 346	G142	brain	glioma	not available	not available	not available
+Sample 347	G22	brain	glioma	not available	not available	not available
+Sample 348	G28T	brain	glioma	not available	not available	not available
+Sample 349	G44	brain	glioma	not available	not available	not available
+Sample 350	G59	brain	glioma	not available	not available	not available
+Sample 351	G61	brain	glioma	not available	not available	not available
+Sample 352	G84	brain	glioma	not available	not available	not available
+Sample 353	G96	brain	glioma	not available	not available	not available
+Sample 354	SF268	brain	glioma	not available	not available	not available
+Sample 355	SF539	brain	glioma	not available	not available	not available
+Sample 356	HCC2157	breast	breast ductal adenocarcinoma	48	female	African
+Sample 357	SW 982	breast	breast synovial sarcoma	25	female	Caucasian
+Sample 358	Ca Ski	cervix	cervical carcinoma	not available	not available	not available
+Sample 359	SiHa	cervix	cervical squamous cell carcinoma	not available	not available	not available
+Sample 360	COLO 205	colon	colon adenocarcinoma	70	male	Caucasian
+Sample 361	COLO 206F	colon	colon adenocarcinoma	70	male	not available
+Sample 362	HCT 116	colon	colon carcinoma	not available	male	not available
+Sample 363	HM7	colon	colon adenocarcinoma	not available	not available	not available
+Sample 364	LS 174T	colon	colon adenocarcinoma	not available	not available	not available
+Sample 365	SW 1463	colon	colon adenocarcinoma	66	female	Caucasian
+Sample 366	SW 48	colon	colon adenocarcinoma	82	female	Caucasian
+Sample 367	SW 480	colon	colon adenocarcinoma	50	male	Caucasian
+Sample 368	A-673	skeletal muscle	rhabdomyosarcoma	15	female	not available
+Sample 369	BICR 10	oral cavity	oral cavity squamous cell carcinoma	not available	not available	not available
+Sample 370	Detroit 562	nasal pharynx	nasopharyngeal carcinoma	not available	female	Caucasian
+Sample 371	SW 780	urinary bladder	urinary bladder transitional cell carcinoma	80	female	Caucasian
+Sample 372	769-P	kidney	renal adenocarcinoma	63	female	Caucasian
+Sample 373	786-O	kidney	renal adenocarcinoma	58	male	Caucasian
+Sample 374	Caki-2	kidney	renal carcinoma	69	male	Caucasian
+Sample 375	TK-10	kidney	renal carcinoma	46	male	not available
+Sample 376	HuH-7	liver	hepatocellular carcinoma	57	male	Japanese
+Sample 377	JHH-2	liver	hepatocellular carcinoma	not available	not available	not available
+Sample 378	JHH-7	liver	hepatocellular carcinoma	not available	not available	not available
+Sample 379	SNU-398	liver	hepatocellular carcinoma	not available	not available	not available
+Sample 380	SNU-423	liver	hepatocellular carcinoma	not available	not available	not available
+Sample 381	HCC1171	lung	non-small cell lung carcinoma	not available	not available	not available
+Sample 382	HCC4017	lung	large cell lung carcinoma	not available	not available	not available
+Sample 383	HCC515	lung	lung adenocarcinoma	not available	not available	not available
+Sample 384	HT-1080	lung	lung fibrosarcoma	35	male	Caucasian
+Sample 385	NCI-H1437	lung	non-small cell lung carcinoma	60	male	Caucasian
+Sample 386	NCI-H322T	lung	non-small cell lung carcinoma	not available	not available	not available
+Sample 387	NCI-H727	lung	lung carcinoid tumor	65	female	Caucasian
+Sample 388	NCI-H82	lung	small cell lung carcinoma	40	not available	Caucasian
+Sample 389	NCI-N417	lung	small cell lung carcinoma	not available	not available	not available
+Sample 390	SR	lymph node	immunoblastic large cell lymphoma	11	male	not available
+Sample 391	COLO-704	ovary	ovarian adenocarcinoma	46	female	Caucasian
+Sample 392	IGROV-1	ovary	ovarian carcinoma	47	female	not available
+Sample 393	NIH:OVCAR-3	ovary	ovarian adenocarcinoma	not available	female	Caucasian
+Sample 394	OV-90	ovary	ovarian papillary serous adenocarcinoma	not available	female	Caucasian
+Sample 395	OvCA 432	ovary	ovarian carcinoma	not available	female	not available
+Sample 396	PE01	ovary	ovarian adenocarcinoma	not available	not available	not available
+Sample 397	DU 145	prostate	prostate carcinoma	69	male	Caucasian
+Sample 398	PC-3	prostate	prostate adenocarcinoma	62	male	Caucasian
+Sample 399	SW 837	rectum	rectal adenocarcinoma	53	male	Caucasian
+Sample 400	SJCRH30	skeletal muscle	rhabdomyosarcoma	17	male	Caucasian
+Sample 401	A-431	skin	skin squamous cell carcinoma	85	female	not available
+Sample 402	COLO-818	skin	metastatic melanoma	not available	not available	not available
+Sample 403	Hs 695T	skin	melanoma	not available	not available	not available
+Sample 404	LOX-IMVI	skin	melanoma	not available	not available	not available
+Sample 405	MeWo	skin	melanoma	78	male	Caucasian
+Sample 406	SNU-216	stomach	gastric carcinoma	46	female	not available
+Sample 407	SNU-484	stomach	gastric carcinoma	53	male	not available
+Sample 408	SNU-638	stomach	gastric carcinoma	48	male	not available
+Sample 409	SNU-668	stomach	gastric carcinoma	68	male	not available
+Sample 410	CAL 27	tongue	tongue squamous cell carcinoma	56	male	Caucasian
+Sample 411	PE/CA-PJ15	tongue	tongue squamous cell carcinoma	not available	not available	not available
+Sample 412	UCSD-242l	skin	melanoma	not available	not available	not available
+Sample 413	BFTC-905	urinary bladder	urinary bladder transitional cell carcinoma	51	female	Chinese
+Sample 414	HCC1263	colon	colon adenocarcinoma	20	female	African
+Sample 415	SW 1417	colon	colon adenocarcinoma	not available	female	Caucasian
+Sample 416	Hs 839.T	skin	melanoma	42	female	Caucasian
+Sample 417	SK-MEL-24	skin	melanoma	67	male	Caucasian
+Sample 418	BICR 31	tongue	tongue squamous cell carcinoma	not available	not available	not available
+Sample 419	DOK	tongue	tongue dysplasia	not available	not available	not available
+Sample 420	SCC-25	tongue	tongue squamous cell carcinoma	not available	not available	not available
+Sample 421	SCC-9	tongue	tongue squamous cell carcinoma	25	male	not available
+Sample 422	HCC1162	uterus	uterine adenocarcinoma	not available	not available	not available
+Sample 423	MOLP-2	blood	multiple myeloma	55	male	not available
+Sample 424	Jurkat, Clone E6-1	blood	acute T cell leukemia	not available	male	not available
+Sample 425	143B	bone	osteosarcoma	13	female	Caucasian
+Sample 426	MHH-ES-1	bone	Ewing's sarcoma	12	male	Caucasian
+Sample 427	ML-2	bone marrow	acute myelogenic leukemia	26	male	not available
+Sample 428	A172	brain	glioblastoma	not available	male	not available
+Sample 429	Hs 683	brain	glioma	not available	not available	not available
+Sample 430	LN-18	brain	glioma	not available	not available	not available
+Sample 431	LN-229	brain	glioma	not available	not available	not available
+Sample 432	ME-180	cervix	cervical carcinoma	66	female	Caucasian
+Sample 433	HCA-7	colon	colon adenocarcinoma	58	female	not available
+Sample 434	HT-55	colon	colon carcinoma	not available	not available	not available
+Sample 435	LS 180	colon	colon adenocarcinoma	58	female	Caucasian
+Sample 436	OUMS-23	colon	colon adenocarcinoma	not available	male	not available
+Sample 437	BHY	oral cavity	oral cavity squamous cell carcinoma	not available	not available	not available
+Sample 438	HN	oral cavity	oral cavity squamous cell carcinoma	not available	not available	not available
+Sample 439	BFTC-909	kidney	transitional cell carcinoma of kidney	64	male	not available
+Sample 440	huH-1	liver	hepatocellular carcinoma	53	male	Japanese
+Sample 441	PLC/PRF/5	liver	hepatocellular carcinoma	not available	not available	not available
+Sample 442	ChaGo-K-1	lung	lung carcinoma	45	male	not available
+Sample 443	HCC44	lung	non-small cell lung carcinoma	54	female	not available
+Sample 444	NCI-H146	lung	small cell lung carcinoma	not available	male	Caucasian
+Sample 445	NCI-H2110	lung	non-small cell lung carcinoma	not available	not available	not available
+Sample 446	NCI-H2170	lung	squamous cell carcinoma	not available	male	not available
+Sample 447	NCI-H446	lung	small cell lung carcinoma	61	male	Caucasian
+Sample 448	SCLC-21H	lung	small cell lung carcinoma	46	male	Caucasian
+Sample 449	COV318	ovary	ovarian carcinoma	not available	not available	not available
+Sample 450	COV413B	ovary	ovarian carcinoma	not available	female	not available
+Sample 451	Hs 294T	skin	melanoma	not available	not available	not available
+Sample 452	SK23	skin	melanoma	not available	not available	not available
+Sample 453	KATO III	stomach	gastric carcinoma	not available	not available	not available
+Sample 454	SNU-620	stomach	gastric carcinoma	59	female	not available
+Sample 455	SNU-719	stomach	gastric carcinoma	53	male	not available
+Sample 456	BICR 22	tongue	tongue squamous cell carcinoma	not available	not available	not available
+Sample 457	UM-UC-1	urinary bladder	urinary bladder transitional cell carcinoma	not available	not available	not available
+Sample 458	UM-UC-3	urinary bladder	urinary bladder transitional cell carcinoma	not available	male	not available
+Sample 459	Caki-1	kidney	renal clear cell adenocarcinoma	49	male	Caucasian
+Sample 460	CAL 54	kidney	renal adenocarcinoma	not available	not available	not available
+Sample 461	COV362	ovary	ovarian carcinoma	not available	not available	not available
+Sample 462	Hs 895.T	skin	melanoma	48	female	Caucasian
+Sample 463	SUM 52PE	breast	breast carcinoma	not available	not available	not available
+Sample 464	NALM-6	blood	leukemia	not available	not available	not available
+Sample 465	KELLY	brain	neuroblastoma	not available	not available	not available
+Sample 466	SK-N-AS	brain	neuroblastoma	not available	not available	not available
+Sample 467	SK-N-DZ	brain	neuroblastoma	2	female	Caucasian
+Sample 468	MS751	cervix	cervical carcinoma	47	female	Caucasian
+Sample 469	SNU-C1	colon	colon adenocarcinoma	71	male	not available
+Sample 470	SNU-387	liver	hepatocellular carcinoma	not available	not available	not available
+Sample 471	HCC193	lung	lung adenocarcinoma	71	female	Caucasian
+Sample 472	HCC78	lung	lung adenocarcinoma	65	male	not available
+Sample 473	LCLC-103H	lung	large cell lung carcinoma	61	male	Caucasian
+Sample 474	NCI-H1581	lung	non-small cell lung carcinoma	44	male	Caucasian
+Sample 475	PA-1	ovary	ovarian carcinoma	not available	not available	not available
+Sample 476	A-375	skin	melanoma	not available	female	not available
+Sample 477	HCC12	kidney	renal cell carcinoma	45	female	not available
+Sample 478	HCC89	kidney	renal cell carcinoma	64	female	Caucasian
+Sample 479	IMR-32	brain	neuroblastoma	1	male	Caucasian
+Sample 480	HEp-2	cervix	cervical adenocarcinoma	not available	not available	not available
+Sample 481	HT-29	colon	colon adenocarcinoma	not available	female	Caucasian
+Sample 482	RKO-E6	colon	colon carcinoma	not available	not available	not available
+Sample 483	SW 620	colon	colon adenocarcinoma	51	male	Caucasian
+Sample 484	WiDr	colon	colon adenocarcinoma	not available	not available	not available
+Sample 485	WM-115	skin	melanoma	58	female	not available
+Sample 486	ATRFLOX	colon	colon carcinoma	not available	male	not available
+Sample 487	COLO-783	skin	metastatic melanoma	48	female	not available
+Sample 488	HCC2270	lung	lung adenocarcinoma	64	female	Caucasian
+Sample 489	HCC2885	lung	non-small cell lung carcinoma	not available	not available	not available
+Sample 490	NCI-H1915	lung	non-small cell lung carcinoma	61	female	Caucasian
+Sample 491	HCC1482	uterus	uterine adenocarcinoma	62	female	Caucasian
+Sample 492	LNCAP	prostate	prostate carcinoma	50	male	Caucasian
+Sample 493	AN3 CA	uterus	uterine adenocarcinoma	55	female	Caucasian
+Sample 494	COV644	ovary	ovarian carcinoma	not available	not available	not available
+Sample 495	HCC630	ovary	ovarian carcinoma	32	female	Hispanic
+Sample 496	NCI-H2023	lung	non-small cell lung carcinoma	26	male	Caucasian
+Sample 497	LXF-289	lung	lung adenocarcinoma	63	male	not available
+Sample 498	Hs 255.T	colon	colon adenocarcinoma	46	female	Caucasian
+Sample 499	HCC1011	kidney	renal cell carcinoma	37	male	Hispanic
+Sample 500	HCC1493	breast	breast adenocarcinoma	43	male	not available
+Sample 501	KLE	uterus	uterine adenocarcinoma	64	female	Caucasian
+Sample 502	HCC1319	kidney	renal cell carcinoma	68	male	Caucasian
+Sample 503	LXFL529	lung	non-small cell lung carcinoma	not available	not available	not available
+Sample 504	EB2	blood	malignant Burkitt's lymphoma	7	female	African
+Sample 505	NCI-H2369	lung	mesothelioma	not available	not available	not available
+Sample 506	NCI-H2595	lung	mesothelioma	not available	not available	not available
+Sample 507	NCI-H28	pleura	mesothelioma	not available	not available	not available
+Sample 508	NCI-H2373	lung	mesothelioma	not available	not available	not available
+Sample 509	NCI-H2452	lung	mesothelioma	not available	not available	not available
+Sample 510	NCI-H2461	lung	mesothelioma	not available	not available	not available
+Sample 511	NCI-H209	lung	small cell lung carcinoma	not available	male	Caucasian
+Sample 512	NCI-H1869	lung	non-small cell lung carcinoma	58	male	Caucasian
+Sample 513	NCI-H1734	lung	non-small cell lung carcinoma	56	female	not available
+Sample 514	NCI-H1623	lung	non-small cell lung carcinoma	58	male	Caucasian
+Sample 515	HCC2302	lung	lung adenocarcinoma	not available	not available	not available
+Sample 516	DU4475	breast	breast carcinoma	70	female	Caucasian
+Sample 517	NCI-H889	lung	small cell lung carcinoma	not available	female	Caucasian
+Sample 518	HEC-1-A	uterus	uterine adenocarcinoma	71	female	not available
+Sample 519	SCC-15	tongue	tongue squamous cell carcinoma	not available	not available	not available
+Sample 520	COV504	ovary	ovarian carcinoma	not available	not available	not available
+Sample 521	NTERA-2	testis	testicular carcinoma	22	male	Caucasian
+Sample 522	WM-266-4	skin	melanoma	58	female	not available
+Sample 523	OV7	ovary	ovarian carcinoma	78	female	not available
+Sample 524	HCC60	ovary	ovarian carcinoma	26	female	African
+Sample 525	SCLC-22H	lung	small cell lung carcinoma	46	male	Caucasian
+Sample 526	HCC1359	lung	large cell lung carcinoma	not available	not available	not available
+Sample 527	DV-90	lung	lung adenocarcinoma	50	male	not available
+Sample 528	EPLC-272H	lung	lung carcinoma	57	male	Caucasian
+Sample 529	DMS 273	lung	small cell lung carcinoma	50	female	not available
+Sample 530	SNU-475	liver	hepatocellular carcinoma	not available	not available	not available
+Sample 531	CAL-12T	lung	non-small cell lung carcinoma	not available	male	not available
+Sample 532	105KC	cartilage	chondrosarcoma	66	male	not available
+Sample 533	LS1034	cecum	cecum carcinoma	54	not available	Caucasian
+Sample 534	JHH-5	liver	hepatocellular carcinoma	50	male	not available
+Sample 535	Hep G2	liver	hepatocellular carcinoma	15	male	Caucasian
+Sample 536	RT-112	urinary bladder	urinary bladder transitional cell carcinoma	not available	female	not available
+Sample 537	FaDu	nasal pharynx	nasopharyngeal squamous cell carcinoma	not available	not available	not available
+Sample 538	HeLa	cervix	cervical adenocarcinoma	not available	female	African
+Sample 539	C2BBe1	colon	colon adenocarcinoma	72	male	Caucasian
+Sample 540	T98G	brain	glioblastoma	61	male	Caucasian
+Sample 541	MT-3	breast	breast carcinoma	not available	not available	not available
+Sample 542	NCI-H2347	lung	non-small cell lung carcinoma	54	female	Caucasian
+Sample 543	NCI-H2803	lung	mesothelioma	not available	not available	not available
+Sample 544	NCI-H2722	lung	mesothelioma	not available	not available	not available
+Sample 545	NCI-H2804	lung	mesothelioma	not available	not available	not available
+Sample 546	GR-M	skin	melanoma	36	male	Caucasian
+Sample 547	JHH-4	liver	hepatocellular carcinoma	not available	not available	not available
+Sample 548	NCI-H1930	lung	small cell lung carcinoma	41	male	Caucasian
+Sample 549	NCI-H2171	lung	small cell lung carcinoma	50	male	Caucasian
+Sample 550	NCI-H196	lung	small cell lung carcinoma	68	male	Caucasian
+Sample 551	NCI-H820	lung	lung adenocarcinoma	not available	male	Caucasian
+Sample 552	UKE-1	blood	leukemia	not available	not available	not available
+Sample 553	BICR 78	oral cavity	oral cavity squamous cell carcinoma	not available	not available	not available
+Sample 554	C32TG	skin	melanoma	53	male	Caucasian
+Sample 555	SK-N-FI	brain	neuroblastoma	11	male	Caucasian
+Sample 556	ACHN	kidney	renal adenocarcinoma	22	male	Caucasian
+Sample 557	HCC1534	lung	lung adenocarcinoma	not available	not available	not available
+Sample 558	NCI-H187	lung	small cell lung carcinoma	47	male	Caucasian
+Sample 559	C-33 A	cervix	cervical carcinoma	not available	not available	not available
+Sample 560	LOU-NH91	lung	squamous cell carcinoma	64	female	not available
+Sample 561	NCI-H1651	lung	non-small cell lung carcinoma	71	male	not available
+Sample 562	NCI-H1648	lung	lung adenocarcinoma	39	male	African
+Sample 563	MOR	lung	lung adenocarcinoma	not available	not available	not available
+Sample 564	NCI-H716	cecum	cecum adenocarcinoma	not available	male	Caucasian
+Sample 565	YMB-1-E	breast	breast carcinoma	55	female	not available
+Sample 566	DMS 79	lung	small cell lung carcinoma	65	not available	Caucasian
+Sample 567	COR-L88	lung	small cell lung carcinoma	55	male	Caucasian
+Sample 568	NCI-H810	lung	non-small cell lung carcinoma	51	male	African
+Sample 569	G-402	kidney	renal leiomyoma	9	female	not available
+Sample 570	PK-8	pancreas	pancreatic carcinoma	not available	not available	not available
+Sample 571	G141	brain	glioma	not available	not available	not available
+Sample 572	RPMI 2650	nasal septum	nasal septum squamous cell carcinoma	52	male	not available
+Sample 573	M059J	brain	glioblastoma	33	male	not available
+Sample 574	M059K	brain	glioblastoma	33	male	not available
+Sample 575	COV413A	ovary	ovarian carcinoma	not available	female	not available
+Sample 576	COR-L279	lung	small cell lung carcinoma	63	male	not available
+Sample 577	COR-L47	lung	small cell lung carcinoma	67	male	Caucasian
+Sample 578	CPC-N	lung	small cell lung carcinoma	not available	not available	not available
+Sample 579	HCC366	lung	non-small cell lung carcinoma	80	female	not available
+Sample 580	NCI-H1395	lung	lung adenocarcinoma	55	female	Caucasian
+Sample 581	NCI-H345	lung	small cell lung carcinoma	64	male	Caucasian
+Sample 582	COLO 857	skin	melanoma	43	male	not available
+Sample 583	IGR-37	skin	melanoma	26	male	not available
+Sample 584	SET-2	blood	acute myeloid leukemia	not available	not available	not available
+Sample 585	HCC461	lung	lung adenocarcinoma	not available	not available	not available
+Sample 586	NCI-H2810	lung	mesothelioma	not available	not available	not available
+Sample 587	SW 527	breast	breast adenocarcinoma	not available	female	Caucasian
+Sample 588	KMS-26	blood	multiple myeloma	not available	not available	not available
+Sample 589	K-562	blood	chronic myelogenic leukemia	not available	not available	not available
+Sample 590	JJ012	cartilage	chondrosarcoma	not available	not available	not available
+Sample 591	COR-L26	lung	large cell lung carcinoma	not available	female	not available
+Sample 592	HCC364	lung	lung adenocarcinoma	76	male	not available
+Sample 593	LCLC-97TM1	lung	large cell lung carcinoma	44	male	Caucasian
+Sample 594	NCI-H2135	lung	non-small cell lung carcinoma	not available	not available	not available
+Sample 595	EFM-192C	breast	breast adenocarcinoma	46	female	Caucasian
+Sample 596	NCI-H2052	pleura	mesothelioma	not available	not available	not available
+Sample 597	C3A	liver	renal carcinoma	not available	not available	not available
+Sample 598	COLO 853	skin	melanoma	43	male	not available
+Sample 599	HMY-1	skin	melanoma	62	male	Japanese
+Sample 600	JHH-1	liver	hepatocellular carcinoma	not available	not available	not available
+Sample 601	KU812	blood	chronic myelogenous leukemia	not available	not available	not available
+Sample 602	SK-N-SH	brain	neuroblastoma	4	female	not available
+Sample 603	UMC-11	lung	lung carcinoid tumor	not available	not available	not available
+Sample 604	RT4	urinary bladder	urinary bladder transitional cell carcinoma	63	male	Caucasian
+Sample 605	MHH-NB-11	brain	neuroblastoma	4	male	Caucasian
+Sample 606	COLO 794	skin	melanoma	14	male	not available
+Sample 607	HCC1576	adrenal	unknown adrenal cancer	not available	not available	not available
+Sample 608	COV434	ovary	granulosa cell tumor	not available	female	not available
+Sample 609	NCI-H920	lung	non-small cell lung carcinoma	43	male	Caucasian
+Sample 610	HGC-27	stomach	gastric carcinoma	not available	not available	not available
+Sample 611	SNU-182	liver	hepatocellular carcinoma	not available	not available	not available
+Sample 612	SNU-449	liver	hepatocellular carcinoma	not available	not available	not available
+Sample 613	BEN	lung	lung carcinoma	71	male	not available
+Sample 614	KHM-1B	blood	multiple myeloma	not available	not available	not available
+Sample 615	COLO 699	lung	lung adenocarcinoma	57	female	not available
+Sample 616	SK-MM-2	blood	leukemia	not available	not available	not available
+Sample 617	SIG-M5	blood	acute monocytic leukemia	not available	not available	not available
+Sample 618	HCC33	lung	small cell lung carcinoma	53	male	Caucasian
+Sample 619	NCI-H847	lung	small cell lung carcinoma	63	male	Caucasian
+Sample 620	Hs 38.T	ovary	ovarian teratoma	not available	female	not available
+Sample 621	IM-95m	stomach	gastric adenocarcinoma	63	male	Japanese
+Sample 622	GP2d	colon	colon adenocarcinoma	not available	not available	not available
+Sample 623	GP5d	colon	colon adenocarcinoma	not available	not available	not available
+Sample 624	Hs 675.T	colon	colon carcinoma	not available	male	Caucasian
+Sample 625	HT-115	colon	colon carcinoma	not available	not available	not available
+Sample 626	MKN-7	stomach	gastric tubular adenocarcinoma	39	male	not available
+Sample 627	HL-60	blood	leukemia	not available	not available	not available
+Sample 628	CaR-1	colon	colon adenocarcinoma	not available	not available	not available
+Sample 629	CW-2	colon	colon carcinoma	45	female	Japanese
+Sample 630	RCM-1	colon	colon adenocarcinoma	73	female	not available
+Sample 631	DMS 454	lung	small cell lung carcinoma	not available	male	not available
+Sample 632	DMS 53	lung	small cell lung carcinoma	54	male	Caucasian
+Sample 633	NCI-H1092	lung	small cell lung carcinoma	67	male	Caucasian
+Sample 634	NCI-H1882	lung	small cell lung carcinoma	59	male	Caucasian
+Sample 635	NCI-H2081	lung	small cell lung carcinoma	59	female	Caucasian
+Sample 636	NCI-H2172	lung	non-small cell lung carcinoma	not available	female	not available
+Sample 637	NCI-H2196	lung	small cell lung carcinoma	67	male	Caucasian
+Sample 638	NCI-H2198	lung	small cell lung carcinoma	67	male	Caucasian
+Sample 639	NCI-H510A	lung	small cell lung carcinoma	56	male	Caucasian
+Sample 640	SW 900	lung	non-small cell lung carcinoma	not available	male	Caucasian
+Sample 641	A-498	kidney	renal adenocarcinoma	52	female	not available
+Sample 642	COLO 792	skin	melanoma	62	male	not available
+Sample 643	DEOC-1	skin	melanoma	59	male	Japanese
+Sample 644	JL-1	pleura	mesothelioma	54	male	not available
+Sample 645	Kasumi-1	blood	acute myeloid leukemia	not available	not available	not available
+Sample 646	SK-MEL-3	skin	melanoma	42	female	Caucasian
+Sample 647	SK-MEL-31	skin	melanoma	not available	female	not available
+Sample 648	THP-1	blood	acute monocytic leukemia	1	male	not available
+Sample 649	UACC-893	breast	breast ductal adenocarcinoma	57	female	Caucasian
+Sample 650	CCRF-SB	blood	leukemia	not available	not available	not available
+Sample 651	NCI-H2596	lung	mesothelioma	not available	not available	not available
+Sample 652	NCI-H2795	lung	mesothelioma	not available	not available	not available
+Sample 653	KYSE-140	esophagus	squamous cell carcinoma	50	male	Japanese
+Sample 654	KYSE-520	esophagus	squamous cell carcinoma	58	female	Japanese
+Sample 655	KYSE-70	esophagus	squamous cell carcinoma	77	male	Japanese
+Sample 656	KYSE-150	esophagus	squamous cell carcinoma	49	female	Japanese
+Sample 657	KYSE-180	esophagus	squamous cell carcinoma	53	male	Japanese
+Sample 658	KYSE-270	esophagus	squamous cell carcinoma	79	male	Japanese
+Sample 659	KYSE-30	esophagus	squamous cell carcinoma	64	male	Japanese
+Sample 660	KYSE-450	esophagus	squamous cell carcinoma	59	male	Japanese
+Sample 661	KYSE-510	esophagus	squamous cell carcinoma	67	female	Japanese
+Sample 662	KURAMOCHI	ovary	ovarian carcinoma	not available	not available	not available
+Sample 663	OVISE	ovary	ovarian clear cell adenocarcinoma	40	female	Japanese
+Sample 664	OVTOKO	ovary	ovarian clear cell adenocarcinoma	78	female	Japanese
+Sample 665	MCAS	ovary	ovarian adenocarcinoma	not available	not available	not available
+Sample 666	COLO 680N	esophagus	squamous cell carcinoma	57	female	African
+Sample 667	OVKATE	ovary	ovarian papillary serous adenocarcinoma	40	female	Japanese
+Sample 668	OVSAHO	ovary	ovarian papillary serous adenocarcinoma	not available	not available	not available
+Sample 669	RKN	ovary	ovarian leiomyosarcoma	45	female	Japanese
+Sample 670	RMG-I	ovary	ovarian carcinoma	not available	not available	not available
+Sample 671	RMUG-S	ovary	ovarian adenocarcinoma	62	female	Japanese
+Sample 672	TYK-nu.CP-r	ovary	ovarian carcinoma	not available	not available	not available
+Sample 673	TYK-nu	ovary	ovarian carcinoma	not available	not available	not available
+Sample 674	OVMANA	ovary	ovarian clear cell adenocarcinoma	not available	not available	not available
+Sample 675	Calu-1	lung	lung carcinoma	47	female	Caucasian
